@@ -1,0 +1,33 @@
+{
+  "name": "loja-web2",
+  "version": "1.0.0",
+  "description": "Atividade de Programação Web II para desenvolver o site de uma loja.",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saviohrq/loja-web-II.git"
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "saviobarradas@gmail.com",
+    "url": ""
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": ""
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
